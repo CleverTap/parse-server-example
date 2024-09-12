@@ -11,7 +11,7 @@
   "dependencies": {
     "clevertap": "~1.1.0",
     "dotenv": "*",
-    "express": "~4.11.x",
+    "express": "~4.21.0",
     "express-winston": "*",
     "kerberos": "~0.0.x",
     "parse": "~1.8.0",
