@@ -11,11 +11,11 @@
   "dependencies": {
     "clevertap": "~1.1.0",
     "dotenv": "*",
-    "express": "~4.11.x",
+    "express": "~4.20.0",
     "express-winston": "*",
     "kerberos": "~0.0.x",
     "parse": "~1.8.0",
-    "parse-server": "~2.2.0",
+    "parse-server": "~6.5.8",
     "winston": "*"
   },
   "scripts": {
